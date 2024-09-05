@@ -26,8 +26,8 @@
   "dependencies": {
     "flat": "^5.0.0",
     "js-yaml": "^3.13.1",
-    "json5": "^2.1.1",
-    "loader-utils": "^2.0.0",
+    "json5": "^2.2.1",
+    "loader-utils": "^3.0.0",
     "prettier": "^2.1.2",
     "vue-i18n": "^9.0.0-beta.4"
   },
